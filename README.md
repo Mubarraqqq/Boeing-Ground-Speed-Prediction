@@ -7,7 +7,7 @@
 <br>
 
 ### Data Collection
-Data was gotten from the [AviationAPI](https://docs.aviationapi.com/#tag/VATSIM), a live API specifically designed to fetch relevant information such as charts, chart changes, weather, etc., at 28-day intervals.
+Data was gotten from the [AviationAPI](https://docs.aviationapi.com/#tag/VATSIM), a live API specifically designed to fetch relevant information such as charts, chart changes, weather, etc., at 28-day intervals. I upload the dataset on [kaggle](https://www.kaggle.com/datasets/freeeman/aviation-api-arrivalsdepartures-into-airports) for public use case.
 
 ### Data Processing
 After Data Collection, I conducted thorough cleaning, analysis, and visualization using Python libraries including:

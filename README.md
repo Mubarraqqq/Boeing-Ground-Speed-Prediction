@@ -35,4 +35,4 @@ I am working on an article which detailis the methodology behind the project, fr
 
 
 
-Please send a message [here](mubaraqgbolahan014@gmail.com) or [here](https://www.linkedin.com/in/mubaraq-onipede-05562b189/), if you have a contribution and find it useful.
+Please send a message [here](mailto:mubaraqgbolahan014@gmail.com) or [here](https://www.linkedin.com/in/mubaraq-onipede-05562b189/), if you have a contribution and find it useful.

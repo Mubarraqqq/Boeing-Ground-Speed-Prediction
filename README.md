@@ -23,7 +23,7 @@ I built a Linear Regression model using the Scikit-learn library to predict the 
 The trained model was deployed on the Hugging Face platform using Gradio for convenient access and interaction. Here is the [link](https://huggingface.co/spaces/freeemanai/Boeing-Airplane-Ground-Speed-Prediction) for live testing.  
 
 ### Article
-I am working on an article which detailis the methodology behind the project, from data retrieval via API to the creation of an AI system for predicting ground speed in Boeing aircraft.
+I am working on an article which encapsulates my thought process behind the project, from data retrieval via API to the creation of an AI system for predicting ground speed in Boeing aircraft.
 
 
 
@@ -35,4 +35,5 @@ I am working on an article which detailis the methodology behind the project, fr
 
 
 
-Please send a message [here](mailto:mubaraqgbolahan014@gmail.com) or [here](https://www.linkedin.com/in/mubaraq-onipede-05562b189/), if you have a contribution and find it useful.
+
+📫Please send a message [here](mailto:mubaraqgbolahan014@gmail.com) or [here](https://www.linkedin.com/in/mubaraq-onipede-05562b189/), if you have a contribution and find it useful.

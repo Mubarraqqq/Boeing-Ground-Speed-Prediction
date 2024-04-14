@@ -17,7 +17,7 @@ After Data Collection, I conducted thorough cleaning, analysis, and visualizatio
 - seaborn
 
 ### Model Development
-I built a Linear Regression model using the Scikit-learn library to predict the ground speed of Boeing aircraft. The model achieved an accuracy of 83.3% and a Mean Squared Error (MSE) of 5013 units. However, I am actively seeking to enhance the model's performance for more accurate predictions and lower error rates.
+I built a Linear Regression model using the Scikit-learn library to predict the ground speed of a Boeing aircraft using its Latitude, Longitude, Altitude, Heading, File True Airspeed, and Filed Time Enroute. The model achieved an accuracy of 83.3% and a Mean Squared Error (MSE) of 5013 units. However, I am actively seeking to enhance the model's performance for more accurate predictions and lower error rates.
 
 ### Model Deployment
 The trained model was deployed on the Hugging Face platform using Gradio for convenient access and interaction. Here is the [link](https://huggingface.co/spaces/freeemanai/Boeing-Airplane-Ground-Speed-Prediction) for live testing.  

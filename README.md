@@ -29,7 +29,7 @@ I am working on an article which encapsulates my thought process behind the proj
 
 ### Note
 
-- [ ] A negative value in your ground speed prediction indicates that the aircraft is moving in the opposite direction of the expected or desired course 
+- [ ] A negative value in your Ground speed prediction indicates that the aircraft is moving in the opposite direction of the expected or desired course.
     
 - [ ] I am also working on an API documentation for Python and Javascript developers where they can make API calls through my endpoints to carry out predictions.
 

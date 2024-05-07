@@ -36,4 +36,4 @@ I am working on an article which encapsulates my thought process behind the proj
 
 
 
-📫Please send a message [here](mailto:mubaraqgbolahan014@gmail.com) or [here](https://www.linkedin.com/in/mubaraq-onipede-05562b189/), if you have a contribution and find it useful.
+📫Please send a message [here](mailto:mubaraqgbolahan014@gmail.com) or [here](https://www.linkedin.com/in/mubaraq-onipede-05562b189/), if you have a contribution or find it useful.
